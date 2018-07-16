@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MultilevelFeedbackQueueSimulation:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MultilevelFeedbackQueueSimulation_jar</output-path>
+    <root id="archive" name="MultilevelFeedbackQueueSimulation.jar">
+      <element id="module-output" name="MultilevelFeedbackQueueSimulation" />
+    </root>
+  </artifact>
+</component>
