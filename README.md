@@ -1,5 +1,9 @@
 ## MultilevelFeedbackQueueSimulation
 
+[![MultilevelFeedbackQueueSimulation](https://img.shields.io/badge/MultilevelFeedbackQueueSimulation-v1.0.0-brightgreen.svg)](
+https://github.com/Yuziquan/MultilevelFeedbackQueueSimulation)
+[![license](https://img.shields.io/packagist/l/doctrine/orm.svg)](https://github.com/Yuziquan/MultilevelFeedbackQueueSimulation/blob/master/LICENSE)
+
 > 详情移步：https://blog.csdn.net/wuchangi/article/details/80432794
 
 ### 一、项目功能
